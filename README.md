@@ -1,8 +1,9 @@
-- 👋 Hi, my name is Michael Palaiologos
+- 👋 Hi, my name is Michael
 - 👀 I’m interested in Quality Assurance Testing
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate with anyone who is into programming or hiring in QA
+- 💞️ I’m looking to collaborate with anyone who is into Quality
 - 📫 Email: michaelgalliko@gmail.com
+
+- QA Automation Engineer | Java & Cypress Enthusiast | Building reliable software
 
 <!---
 Marios2323/Marios2323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
