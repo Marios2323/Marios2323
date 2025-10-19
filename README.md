@@ -2,8 +2,7 @@
 - 👀 I’m interested in Quality Assurance Testing
 - 💞️ I’m looking to collaborate with anyone who is into Quality
 - 📫 Email: michaelgalliko@gmail.com
-- <![sm_5b321c9756fc6](https://github.com/user-attachments/assets/672244f5-f9dd-4e94-a3fd-16bfa18807c9)
-a href="https://www.w3schools.com/" target="_blank">LinkedIn</a>
+- <class="fa fa-linkedin-square" style="font-size:24px"><a href="https://www.w3schools.com/" target="_blank">LinkedIn</a>
 
 - QA Automation Engineer | Java & Cypress Enthusiast | Building reliable software
 
